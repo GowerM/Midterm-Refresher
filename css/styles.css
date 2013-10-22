@@ -12,6 +12,15 @@ nav {
  background : #907541;	
 }
 
+blockquote {
+	background : #7A6D50;	
+}
+
+footer {
+	background : #520037;
+	color : white;	
+}
+
 .container_12 {
 	background : #C75A24;	
 }
