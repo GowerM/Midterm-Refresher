@@ -18,7 +18,9 @@ nav {
 
 li {
  	display : inline;
-	margin : 0 20px;	
+	margin : 0 20px;
+	float : right;
+	padding : 10px 0;	
 }
 
 blockquote {
@@ -26,7 +28,8 @@ blockquote {
 	color : #79B599;
 	padding : 20px;
 	margin : 20px;
-	text-align : center;	
+	text-align : center;
+	font-size : 50px;	
 }
 
 section {
