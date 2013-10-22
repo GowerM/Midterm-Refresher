@@ -29,7 +29,6 @@ a {
 }
 
 blockquote {
-	background : #7A6D50;
 	color : #79B599;
 	padding : 20px;
 	margin : 20px;
@@ -39,7 +38,7 @@ blockquote {
 
 section {
 	background : #C75A24;
-	
+	font-family : 'Share Tech', sans-serif;
 }
 
 footer {
