@@ -5,22 +5,27 @@ body {
 }
 
 header {
-	background : #5E4548;
-	color : #B55B5B;
+	color : #5E4548;
 	text-align : center;
-	margin : 25px 0;	
+	margin : 25px 0;
+	font-family : 'Share Tech', sans-serif;
+	font-size :	23px;
 }
 
 nav {
- background : #907541;
- margin : 50px 0;	
+	 font-family : 'Share Tech', sans-serif;
+	 margin : 60px 0;	
 }
 
 li {
  	display : inline;
 	margin : 0 20px;
-	float : right;
 	padding : 10px 0;	
+}
+
+a {
+	text-decoration : none;
+	color :	#5E4548;
 }
 
 blockquote {
@@ -38,12 +43,14 @@ section {
 }
 
 footer {
-	background : #520037;
-	color : white;	
+	color : white;
+	font-family : 'Share Tech', sans-serif;
+	text-align : center;	
 }
 
 .container_12 {
-	background : #C75A24;	
+	background : #C75A24;
+		
 }
 
 
