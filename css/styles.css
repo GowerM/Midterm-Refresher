@@ -44,7 +44,8 @@ section {
 footer {
 	color : white;
 	font-family : 'Share Tech', sans-serif;
-	text-align : center;	
+	text-align : center;
+	margin : 20px 0 50px 0;	
 }
 
 .container_12 {
